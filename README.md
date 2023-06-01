@@ -31,11 +31,12 @@ The Train Reservation System allows users to book train tickets for various rout
 ## Screenshots
 
 Here are some screenshots of the Train Reservation System in action:
-
-![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainEntry.png)
-<br>
 *Screenshot 1: Enter a Train Details.*
 <br>
+![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainEntry.png)
+<br>
+<br>
+*Screenshot 2: Booking a ticket for a given route, date, and class.*
 <br>
 ![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingReq.png)
 <br>
