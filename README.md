@@ -1,6 +1,6 @@
 # Train Reservation System
 
-The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets through an online portal. This system is built for IRCTC to provide a seamless and efficient booking experience for train travelers. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
+The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets through. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
 
 ## Table of Contents
 
