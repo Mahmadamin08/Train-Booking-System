@@ -10,7 +10,6 @@ The Train Reservation System is a console-based application implemented in Java,
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
