@@ -43,12 +43,20 @@ Here are some screenshots of the Train Reservation System in action:
 <br>
 <br>
 ![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingReq.png)
-<br>
-*Screenshot 1: Booking a ticket for a given route, date, and class.*
-*Screenshot 2: Booking an entire coach for a group.*
 
-![Screenshot 3](screenshots/screenshot3.png)
-*Screenshot 3: Error message when no seats are available.*
+<br>
+<br>
+*Screenshot 2: is No Seats Available.*
+<br>
+<br>
+![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/noSeatAvi.png)
+
+<br>
+<br>
+*Screenshot 2: if No Trian Available.*
+<br>
+<br>
+![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/noTrainAvi.png)
 
 ## Installation
 
