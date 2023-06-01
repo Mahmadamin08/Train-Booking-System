@@ -1,6 +1,6 @@
 # Train Reservation System
 
-The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets through. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
+The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets. The system is designed to provide a seamless ticket booking experience for users, considering factors such as train availability, route, date, class/coach type, and the number of passengers. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
 
 ## Table of Contents
 
