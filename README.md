@@ -32,7 +32,7 @@ The Train Reservation System allows users to book train tickets for various rout
 
 Here are some screenshots of the Train Reservation System in action:
 
-[Screenshot 1](ss/bookingReq.png)
+![Screenshot 1](ss/bookingReq.png)
 *Screenshot 1: Booking a ticket for a given route, date, and class.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
