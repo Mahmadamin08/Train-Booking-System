@@ -47,14 +47,14 @@ Here are some screenshots of the Train Reservation System in action:
 
 <br>
 <br>
-*Screenshot 2: is No Seats Available.*
+*Screenshot 3: is No Seats Available.*
 <br>
 <br>
 ![Screenshot 3](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/noSeatAvi.png)
 
 <br>
 <br>
-*Screenshot 2: if No Trian Available.*
+*Screenshot 4: if No Trian Available.*
 <br>
 <br>
 ![Screenshot 4](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/noTrainAvi.png)
