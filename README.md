@@ -20,9 +20,8 @@ The Train Reservation System allows users to book train tickets for various rout
 
 - Book tickets for a given route, date, class/coach type, and number of passengers.
 - Supports multiple trains with different coach configurations.
-- Calculates fare based on the distance and class selected.
+- Calculates fare based on the distance,class selected and No of passengers.
 - Assigns a unique PNR (Passenger Name Record) to each ticket.
-- Group booking option available for booking an entire coach.
 - Ensures seat availability and displays an error message if no seats are available.
 - Books tickets from the lowest coach number to the highest, and within each coach, from the lowest seat number to the highest.
 - Supports a range of coach types, including Sleeper (SL), 3 Tier AC (3A), 2 Tier AC (2A), and 1st class AC (1A).
@@ -33,7 +32,7 @@ The Train Reservation System allows users to book train tickets for various rout
 
 Here are some screenshots of the Train Reservation System in action:
 
-![Screenshot 1](screenshots/screenshot1.png)
+![Screenshot 1](![image](https://github.com/Mahmadamin08/Train-Reservation-System/assets/87768778/396888c2-aa20-4869-a694-06b6006800f0))
 *Screenshot 1: Booking a ticket for a given route, date, and class.*
 
 ![Screenshot 2](screenshots/screenshot2.png)
