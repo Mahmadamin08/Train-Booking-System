@@ -110,4 +110,37 @@ Once the Train Reservation System is up and running, you can use the following c
    ```
    Input: Rajkot Mumbai 2023-03-15 1A 1
    ```
+   Output:
+   ```
+   No Seats Available
+   ```
+
+4. Tickets can be booked for the next available date:
+   ```
+   Input: Rajkot Mumbai 2023-03-16 1A 10
+   ```
+
+   Output:
+   ```
+   PNR: 100000003
+   Fare: 30000
+   ```
+
+5. If no trains are available for the given route and date, an error message will be displayed:
+   ```
+   Input: Rajkot Chennai 2023-03-16 1A 10
+   ```
+
+   Output:
+   ```
+   No Trains Available
+   ```
+
+**Note:** The above examples demonstrate the usage of the Train Reservation System. You can enter different routes, dates, class types, and numbers of passengers to book tickets according to your requirements.
+
+## Contributing
+
+Contributions to the Train Reservation System project are welcome! If you have any ideas, suggestions, or improvements, please feel free to open an issue or submit a pull request. Let's collaborate to make this system even better.
+
+
 
