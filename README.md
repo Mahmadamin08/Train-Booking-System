@@ -1,6 +1,6 @@
 # Train Reservation System
 
-The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets. The system is designed to provide a seamless ticket booking experience for users, considering factors such as train availability, route, date, class/coach type, and the number of passengers. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
+The Train Reservation System is a console-based application implemented in Java, designed to enable users to book train tickets. The system is designed to provide a seamless ticket booking experience for users, considering factors such as train availability, route, date, class/coach type, the number of passengers and generte report. This readme file will guide you through the features, usage, and installation of the Train Reservation System.
 
 ## Table of Contents
 
@@ -17,15 +17,17 @@ The Train Reservation System allows users to book train tickets for various rout
 
 ## Features
 
-- Book tickets for a given route, date, class/coach type, and number of passengers.
-- Supports multiple trains with different coach configurations.
-- Calculates fare based on the distance,class selected and No of passengers.
-- Assigns a unique PNR (Passenger Name Record) to each ticket.
-- Ensures seat availability and displays an error message if no seats are available.
-- Books tickets from the lowest coach number to the highest, and within each coach, from the lowest seat number to the highest.
-- Supports a range of coach types, including Sleeper (SL), 3 Tier AC (3A), 2 Tier AC (2A), and 1st class AC (1A).
-- Validated inputs to ensure accurate booking information.
-- Efficiently handles multiple booking requests simultaneously.
+- Displays all available trains based on the booking request, including train numbers and details.
+- Allows users to book tickets for a specific train, route, date, class/coach type, and number of passengers.
+- Calculates the fare accurately based on the distance, selected class, and number of passengers.
+- Generates a unique PNR number for each booked ticket.
+- Ensures seat availability and displays an appropriate error message if no seats are available.
+- Books tickets systematically, starting from the lowest coach number to the highest, and within each coach, assigns seats from the lowest seat number to the highest.
+- Supports various coach types, such as Sleeper (SL), 3 Tier AC (3A), 2 Tier AC (2A), and 1st class AC (1A).
+- Implements input validation to ensure the correctness of booking information.
+- Efficiently handles multiple booking requests concurrently.
+- Enables retrieval of booking details using the unique PNR.
+- Provides a report generation feature to display all booked ticket details in the correct order.
 
 ## Screenshots
 
