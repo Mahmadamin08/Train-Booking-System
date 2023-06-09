@@ -37,13 +37,13 @@ Here are some screenshots of the Train Reservation System in action:
 *Screenshot 1: Enter a Train Details.*
 <br>
 <br>
-![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainEntry.png)
+![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainentry.jng)
 <br>
 <br>
 *Screenshot 2: Booking a ticket for a given route, date, and class.*
 <br>
 <br>
-![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingReq.png)
+![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingreq.jng)
 <br>
 <br>
 *Screenshot 3: is No Seats Available.*
@@ -56,6 +56,24 @@ Here are some screenshots of the Train Reservation System in action:
 <br>
 <br>
 ![Screenshot 4](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/noTrainAvi.png)
+<br>
+<br>
+*Screenshot 5: Retrieve booking details using PNR.*
+<br>
+<br>
+![Screenshot 5](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/retrivebyprn.jpg)
+<br>
+<br>
+*Screenshot 6: Invalid PNR.*
+<br>
+<br>
+![Screenshot 6](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/invalidprn.jpg)
+<br>
+<br>
+*Screenshot 7: Generate Report.*
+<br>
+<br>
+![Screenshot 7](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/report.jpg)
 
 ## Installation
 
