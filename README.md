@@ -37,13 +37,13 @@ Here are some screenshots of the Train Reservation System in action:
 *Screenshot 1: Enter a Train Details.*
 <br>
 <br>
-![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainentry.jng)
+![Screenshot 1](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/trainentry.jpg)
 <br>
 <br>
 *Screenshot 2: Booking a ticket for a given route, date, and class.*
 <br>
 <br>
-![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingreq.jng)
+![Screenshot 2](https://raw.github.com/Mahmadamin08/Train-Reservation-System/main/ss/bookingreq.jpg)
 <br>
 <br>
 *Screenshot 3: is No Seats Available.*
